@@ -8,7 +8,7 @@ public class HelloWorldController {
 	
 	@RequestMapping
 	public String returnHelloWorld() {
-		return "Welcome to Jenkis with Springboot Journey with Git Hub";
+		return "Done Sucesfully with Jenkins Migration";
 	}
 
 }
